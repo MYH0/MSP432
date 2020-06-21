@@ -161,7 +161,7 @@ extern "C"
 //! Modified bits of \b PxDIR register and bits of \b PxSEL register.
 //!
 //! \return None
-//
+//GPIO设置为输出
 //*****************************************************************************
 extern void GPIO_setAsOutputPin(uint_fast8_t selectedPort,
         uint_fast16_t selectedPins);
@@ -421,7 +421,7 @@ extern void GPIO_setOutputHighOnPin(uint_fast8_t selectedPort,
 //!        - \b GPIO_PIN15
 //!
 //! \return None
-//
+//GPIO输出0
 //*****************************************************************************
 extern void GPIO_setOutputLowOnPin(uint_fast8_t selectedPort,
         uint_fast16_t selectedPins);
@@ -468,7 +468,7 @@ extern void GPIO_setOutputLowOnPin(uint_fast8_t selectedPort,
 //! Modified bits of \b PxOUT register.
 //!
 //! \return None
-//
+//GPIO输出反转
 //*****************************************************************************
 extern void GPIO_toggleOutputOnPin(uint_fast8_t selectedPort,
         uint_fast16_t selectedPins);
@@ -566,7 +566,7 @@ extern void GPIO_setAsInputPinWithPullDownResistor(uint_fast8_t selectedPort,
 //! \b PxREN register.
 //!
 //! \return None
-//
+//输入口启用上拉电阻
 //*****************************************************************************
 extern void GPIO_setAsInputPinWithPullUpResistor(uint_fast8_t selectedPort,
         uint_fast16_t selectedPins);
@@ -653,7 +653,7 @@ extern uint8_t GPIO_getInputPinValue(uint_fast8_t selectedPort,
 //! Modified bits of \b PxIE register.
 //!
 //! \return None
-//
+//允许中断
 //*****************************************************************************
 extern void GPIO_enableInterrupt(uint_fast8_t selectedPort,
         uint_fast16_t selectedPins);
@@ -692,7 +692,7 @@ extern void GPIO_enableInterrupt(uint_fast8_t selectedPort,
 //! Modified bits of \b PxIE register.
 //!
 //! \return None
-//
+//禁止中断
 //*****************************************************************************
 extern void GPIO_disableInterrupt(uint_fast8_t selectedPort,
         uint_fast16_t selectedPins);
@@ -746,7 +746,7 @@ extern void GPIO_disableInterrupt(uint_fast8_t selectedPort,
 //!         - \b GPIO_PIN15
 //!         \n indicating the interrupt status of the selected pins [Default:
 //!         0]
-//
+//得到IO中断状态
 //*****************************************************************************
 extern uint_fast16_t GPIO_getInterruptStatus(uint_fast8_t selectedPort,
         uint_fast16_t selectedPins);
@@ -784,7 +784,7 @@ extern uint_fast16_t GPIO_getInterruptStatus(uint_fast8_t selectedPort,
 //! Modified bits of \b PxIFG register.
 //!
 //! \return None
-//
+//清除IO中断标志位
 //*****************************************************************************
 extern void GPIO_clearInterruptFlag(uint_fast8_t selectedPort,
         uint_fast16_t selectedPins);

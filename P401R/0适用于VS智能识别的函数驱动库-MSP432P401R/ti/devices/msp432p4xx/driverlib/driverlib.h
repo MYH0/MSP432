@@ -32,6 +32,9 @@
 #ifndef __DRIVERLIB__H_
 #define __DRIVERLIB__H_
 
+#include <msp432p401r.h>
+#include <msp432p401r_classic.h>
+
 /* Common Modules */
 #include <ti/devices/msp432p4xx/driverlib/adc14.h>
 #include <ti/devices/msp432p4xx/driverlib/aes256.h>
