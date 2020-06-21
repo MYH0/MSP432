@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\P0 Template"
+    "\\P01 Blink LED1"
   ],
-  "SelectedNode": "\\P0 Template\\M432P4_GPIO.H",
+  "SelectedNode": "\\P01 Blink LED1\\Typedef.h",
   "PreviewInSolutionExplorer": false
 }

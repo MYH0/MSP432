@@ -317,8 +317,8 @@ extern bool CS_startLFXTWithTimeout(uint32_t xtDrive, uint32_t timeout);
 //! Selects between the frequency of the internal REFO clock source
 //!
 //! \param referenceFrequency selects between the valid frequencies:
-//!        - \b CS_REFO_32KHZ,
-//!        - \b CS_REFO_128KHZ,
+//!        - \b CS_REFO_32KHZ,==0
+//!        - \b CS_REFO_128KHZ,==1
 //!
 //! \return NONE
 //

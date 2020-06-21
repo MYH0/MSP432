@@ -12,6 +12,7 @@ uint_32->uint
 //Type
 typedef unsigned char uchar;
 typedef unsigned int uint;
+typedef unsigned long int ulint;
 
 //GPIO_PORT,数字型PORT直接写数字
 #define PAA GPIO_PORT_PA

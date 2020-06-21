@@ -97,7 +97,7 @@ extern "C"
 //! in a NOCP usage fault.
 //!
 //! \return None.
-//
+//启用FPU浮点运算协处理器
 //*****************************************************************************
 extern void FPU_enableModule(void);
 
