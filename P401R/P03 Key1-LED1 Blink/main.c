@@ -1,19 +1,14 @@
 #include <ti/devices/msp432p4xx/driverlib/driverlib.h>
-#include "Typedef.h"
-#include "M432_GPIO.H"
-
+#include "M432P4_Typedef.h"
+#include "M432P4_Clock.h"
+#include "M432P4_GPIO.H"
 
 void main(void)
 {
-    /* Halting the Watchdog */
     WDT_A_holdTimer();
-
-    /* Configuring P1.0 as output and P1.1 (switch) as input */
+    Clock_Init();
     GPIO_Init();
-
     GPIO_Interrupt_Init();
-
-    /* Enabling MASTER interrupts */
     Interrupt_enableMaster();
 
     while (1)

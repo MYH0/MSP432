@@ -1,11 +1,11 @@
 #include <ti/devices/msp432p4xx/driverlib/driverlib.h>
-#include "Typedef.h"
-#include "Clock.h"
+#include "M432_Typedef.h"
+#include "M432_Clock.h"
 
 int main(void)
 {
     volatile ulint i;
-  
+
     WDT_A_holdTimer();   // Stop watchdog timer
     Clock_Init();
     GPIO_setAsOutputPin(1, BIT0);

@@ -8,22 +8,26 @@
 #ifndef M432P4_GPIO_H_
 #define M432P4_GPIO_H_
 
+#define GPIO_LTH GPIO_LOW_TO_HIGH_TRANSITION //上升沿
+#define GPIO_HTL GPIO_HIGH_TO_LOW_TRANSITION //下降沿
+
 volatile ulint delay = 5000;
-volatile uint i = 24 * 500;
+//volatile uint i = 24 * 500;
 
 
 
 void GPIO_Init()
 {
-	GPIO_setAsOutputPin(GPIO_PORT_P1, GPIO_PIN0);
+	GPIO_setAsOutputPin(1, BIT0);
 
 }
 
 void GPIO_Interrupt_Init()
 {
-    GPIO_setAsInputPinWithPullUpResistor(GPIO_PORT_P1, GPIO_PIN1);
-    GPIO_clearInterruptFlag(GPIO_PORT_P1, GPIO_PIN1);
-    GPIO_enableInterrupt(GPIO_PORT_P1, GPIO_PIN1);
+    GPIO_setAsInputPinWithPullUpResistor(1, BIT1);
+    GPIO_interruptEdgeSelect(1,BIT8_ALL,GPIO_HTL);
+    GPIO_clearInterruptFlag(1, BIT1);
+    GPIO_enableInterrupt(1, BIT1);
     Interrupt_enableInterrupt(INT_PORT1);
 
 }
@@ -40,7 +44,8 @@ void Key1_Function();
 void PORT1_IRQHandler(void)
 {
     P1_Interrupt_Function();
-    GPIO_clearInterruptFlag(GPIO_PORT_P1, P1_status);
+    GPIO_clearInterruptFlag(1, P1_status);
+
 }
 
 void P1_Interrupt_Function()
@@ -51,9 +56,10 @@ void P1_Interrupt_Function()
 
 void P1_Interrupt_Scan()
 {   
-    P1_status = GPIO_getEnabledInterruptStatus(GPIO_PORT_P1);
-    P1_status &= ~P1DIR;            //只考虑输入端造成的中断
-    for (; i > 0; i--);
+    P1_status = GPIO_getEnabledInterruptStatus(1);  
+    P1_status &= ~GPIO_getInputPinValue(1,BIT8_ALL);            //只考虑输入端造成的中断
+    //for (; i > 0; i--);
+    Delay_ms(24);
     if ((P1_status & P1IN) == 0)
     {
         switch (P1_status)
