@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\P03 Key1-LED1 Blink",
-    "\\timer_a_continuous_overflow_interrupt_MSP_EXP432P401R_nortos_ccs"
+    "\\P04 TimerA Blink LED1"
   ],
-  "SelectedNode": "\\P03 Key1-LED1 Blink\\M432P4_Clock.h",
+  "SelectedNode": "\\P04 TimerA Blink LED1\\M432P4_GPIO.H",
   "PreviewInSolutionExplorer": false
 }
