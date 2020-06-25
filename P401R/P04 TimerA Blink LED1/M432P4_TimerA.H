@@ -74,7 +74,11 @@ uint TA_INT_Num(uint TA_Num)
 /*TA-工作模式设定*/
 
 //增计数模式
+/*例子
+1.SMCLK-20分频-A1定时器-计数50000
+    TA_Up_Mode_Init('S', 20, 1, 50000);
 
+*/
 void TA_Up_Mode_Init(char TA_CLK, uint TA_DIV,uint TA_Num,uint TA_Period)
 {
     const Timer_A_UpModeConfig TA_upConfig =

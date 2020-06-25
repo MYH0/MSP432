@@ -9,7 +9,7 @@ void main(void)
     WDT_A_holdTimer();      //นุนท
     Clock_Init();
     GPIO_Init();
-    TA_Up_Mode_Init('S', 20, 1, 50000);
+    TA_Up_Mode_Init('S', 20, 1, 25000);
 
     Interrupt_enableMaster();
 
