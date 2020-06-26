@@ -8,8 +8,9 @@
 void main(void)
 {    
     WDT_WD_STOP();      //นุนท
-    Clock_Init(24000000, 32, 'D', 1, 'D', 1, 'R', 1, 'R', 1, 'R', 1);
+    Clock_Init(16000000, 32);
     GPIO_Init();
+    TA_Up_Mode_Init('S', 20, 1, 25000);
 
     Interrupt_enableMaster();
 
