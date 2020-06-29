@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\H0 TimerA Blink LED1",
     "\\P0 Template",
-    "\\P04 TimerA Blink LED1"
+    "\\P06 Timer32 Blink LED1"
   ],
-  "SelectedNode": "\\H0 TimerA Blink LED1\\M432P4_TimerA.H",
+  "SelectedNode": "\\P0 Template\\M432P4_GPIO.H",
   "PreviewInSolutionExplorer": false
 }

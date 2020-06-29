@@ -1,0 +1,1398 @@
+[
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnISxFsBYbSU8&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnISxFsBYbSU8",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnISxFsBYbSU8?extname=.c",
+    "linkType": "local",
+    "name": "main.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "main.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAn3BUr6Fe2UCI&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAn3BUr6Fe2UCI",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAn3BUr6Fe2UCI?extname=.c",
+    "linkType": "local",
+    "name": "adc14.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "adc14.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnvFhdivbUoVA&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnvFhdivbUoVA",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnvFhdivbUoVA?extname=.h",
+    "linkType": "local",
+    "name": "adc14.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "adc14.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnIbyVOYNr-ac&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnIbyVOYNr-ac",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnIbyVOYNr-ac?extname=.c",
+    "linkType": "local",
+    "name": "aes256.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "aes256.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnVEgCvKNq6u8&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnVEgCvKNq6u8",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnVEgCvKNq6u8?extname=.h",
+    "linkType": "local",
+    "name": "aes256.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "aes256.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnmY4mWzBjPqw&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnmY4mWzBjPqw",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnmY4mWzBjPqw?extname=.c",
+    "linkType": "local",
+    "name": "comp_e.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "comp_e.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAn4EZn4qnbfaI&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAn4EZn4qnbfaI",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAn4EZn4qnbfaI?extname=.h",
+    "linkType": "local",
+    "name": "comp_e.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "comp_e.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnI0LzVfgkkxA&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnI0LzVfgkkxA",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnI0LzVfgkkxA?extname=.c",
+    "linkType": "local",
+    "name": "cpu.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "cpu.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAn4IvurZMjTT4&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAn4IvurZMjTT4",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAn4IvurZMjTT4?extname=.h",
+    "linkType": "local",
+    "name": "cpu.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "cpu.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAn0fObaHXUOGE&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAn0fObaHXUOGE",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAn0fObaHXUOGE?extname=.c",
+    "linkType": "local",
+    "name": "crc32.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "crc32.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAniFRq-OwO9w8&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAniFRq-OwO9w8",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAniFRq-OwO9w8?extname=.h",
+    "linkType": "local",
+    "name": "crc32.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "crc32.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnusDEedD6qpg&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnusDEedD6qpg",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnusDEedD6qpg?extname=.c",
+    "linkType": "local",
+    "name": "cs.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "cs.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnQ4lIuJEvXXA&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnQ4lIuJEvXXA",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnQ4lIuJEvXXA?extname=.h",
+    "linkType": "local",
+    "name": "cs.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "cs.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnkYCE2QCuDNA&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnkYCE2QCuDNA",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnkYCE2QCuDNA?extname=.h",
+    "linkType": "local",
+    "name": "debug.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "debug.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnkDa0_x1odp8&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnkDa0_x1odp8",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnkDa0_x1odp8?extname=.c",
+    "linkType": "local",
+    "name": "dma.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "dma.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnQkb6WBeQahg&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnQkb6WBeQahg",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnQkb6WBeQahg?extname=.h",
+    "linkType": "local",
+    "name": "dma.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "dma.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnjKPQic0x5AM&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnjKPQic0x5AM",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnjKPQic0x5AM?extname=.h",
+    "linkType": "local",
+    "name": "driverlib.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "driverlib.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnROj4L_Os5EU&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnROj4L_Os5EU",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnROj4L_Os5EU?extname=.h",
+    "linkType": "local",
+    "name": "eusci.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "eusci.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAn1dtBCQoZ4pA&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAn1dtBCQoZ4pA",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAn1dtBCQoZ4pA?extname=.c",
+    "linkType": "local",
+    "name": "flash.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "flash.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAn723_6D2RATU&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAn723_6D2RATU",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAn723_6D2RATU?extname=.h",
+    "linkType": "local",
+    "name": "flash.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "flash.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnYi5hW62Qgug&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnYi5hW62Qgug",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnYi5hW62Qgug?extname=.c",
+    "linkType": "local",
+    "name": "fpu.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "fpu.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnv4vLznMOLPc&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnv4vLznMOLPc",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnv4vLznMOLPc?extname=.h",
+    "linkType": "local",
+    "name": "fpu.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "fpu.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnVRgzhCAcyK4&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnVRgzhCAcyK4",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnVRgzhCAcyK4?extname=.c",
+    "linkType": "local",
+    "name": "gpio.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "gpio.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnn18YjUnOSgI&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnn18YjUnOSgI",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnn18YjUnOSgI?extname=.h",
+    "linkType": "local",
+    "name": "gpio.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "gpio.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnn-EhUXtQuyU&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnn-EhUXtQuyU",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnn-EhUXtQuyU?extname=.c",
+    "linkType": "local",
+    "name": "i2c.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "i2c.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnTv1J7HwXz-Y&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnTv1J7HwXz-Y",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnTv1J7HwXz-Y?extname=.h",
+    "linkType": "local",
+    "name": "i2c.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "i2c.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnI4vBWXPZMHk&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnI4vBWXPZMHk",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnI4vBWXPZMHk?extname=.c",
+    "linkType": "local",
+    "name": "interrupt.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "interrupt.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnuduv5K1beCQ&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnuduv5K1beCQ",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnuduv5K1beCQ?extname=.h",
+    "linkType": "local",
+    "name": "interrupt.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "interrupt.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAntt3rT0vIQpc&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAntt3rT0vIQpc",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAntt3rT0vIQpc?extname=.c",
+    "linkType": "local",
+    "name": "mpu.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "mpu.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnNkovgFBbu7k&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnNkovgFBbu7k",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnNkovgFBbu7k?extname=.h",
+    "linkType": "local",
+    "name": "mpu.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "mpu.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnO92ujotlyjI&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnO92ujotlyjI",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnO92ujotlyjI?extname=.c",
+    "linkType": "local",
+    "name": "pcm.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "pcm.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnVG9UAqlqWdw&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnVG9UAqlqWdw",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnVG9UAqlqWdw?extname=.h",
+    "linkType": "local",
+    "name": "pcm.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "pcm.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAns5MRZVtW22g&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAns5MRZVtW22g",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAns5MRZVtW22g?extname=.c",
+    "linkType": "local",
+    "name": "pmap.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "pmap.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnB15xG36gVhM&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnB15xG36gVhM",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnB15xG36gVhM?extname=.h",
+    "linkType": "local",
+    "name": "pmap.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "pmap.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnmm5q60HlWSo&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnmm5q60HlWSo",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnmm5q60HlWSo?extname=.c",
+    "linkType": "local",
+    "name": "pss.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "pss.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnusO6r3pRmdE&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnusO6r3pRmdE",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnusO6r3pRmdE?extname=.h",
+    "linkType": "local",
+    "name": "pss.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "pss.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnoHJSjO-wYrs&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnoHJSjO-wYrs",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnoHJSjO-wYrs?extname=.c",
+    "linkType": "local",
+    "name": "ref_a.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "ref_a.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnkHrpMKWvGV0&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnkHrpMKWvGV0",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnkHrpMKWvGV0?extname=.h",
+    "linkType": "local",
+    "name": "ref_a.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "ref_a.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnk43fX6sW6mU&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnk43fX6sW6mU",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnk43fX6sW6mU?extname=.c",
+    "linkType": "local",
+    "name": "reset.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "reset.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnwD4Mnixf4MI&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnwD4Mnixf4MI",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnwD4Mnixf4MI?extname=.h",
+    "linkType": "local",
+    "name": "reset.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "reset.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAn5yJ6iY3B_6o&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAn5yJ6iY3B_6o",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAn5yJ6iY3B_6o?extname=.h",
+    "linkType": "local",
+    "name": "rom.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "rom.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnuhSbWP6Kbfs&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnuhSbWP6Kbfs",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnuhSbWP6Kbfs?extname=.h",
+    "linkType": "local",
+    "name": "rom_map.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "rom_map.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAn7UFotWhgMKM&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAn7UFotWhgMKM",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAn7UFotWhgMKM?extname=.c",
+    "linkType": "local",
+    "name": "rtc_c.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "rtc_c.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnPQ95Ea-IIR8&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnPQ95Ea-IIR8",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnPQ95Ea-IIR8?extname=.h",
+    "linkType": "local",
+    "name": "rtc_c.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "rtc_c.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnV5syJHX_lkk&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnV5syJHX_lkk",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnV5syJHX_lkk?extname=.c",
+    "linkType": "local",
+    "name": "spi.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "spi.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnNYajDKBwEvs&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnNYajDKBwEvs",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnNYajDKBwEvs?extname=.h",
+    "linkType": "local",
+    "name": "spi.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "spi.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnrZApeITbk_Y&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnrZApeITbk_Y",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnrZApeITbk_Y?extname=.c",
+    "linkType": "local",
+    "name": "sysctl.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "sysctl.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAn9fkleAzFU7g&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAn9fkleAzFU7g",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAn9fkleAzFU7g?extname=.h",
+    "linkType": "local",
+    "name": "sysctl.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "sysctl.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAn_wWD-ixFVQ0&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAn_wWD-ixFVQ0",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAn_wWD-ixFVQ0?extname=.c",
+    "linkType": "local",
+    "name": "systick.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "systick.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnlco6D8TQq48&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnlco6D8TQq48",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnlco6D8TQq48?extname=.h",
+    "linkType": "local",
+    "name": "systick.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "systick.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnVFH3u6yLDMg&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnVFH3u6yLDMg",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnVFH3u6yLDMg?extname=.c",
+    "linkType": "local",
+    "name": "timer32.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "timer32.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnayte0EHFdJo&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnayte0EHFdJo",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnayte0EHFdJo?extname=.h",
+    "linkType": "local",
+    "name": "timer32.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "timer32.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnZxKBMQ-OU08&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnZxKBMQ-OU08",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnZxKBMQ-OU08?extname=.c",
+    "linkType": "local",
+    "name": "timer_a.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "timer_a.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnXStG1mN9kGI&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnXStG1mN9kGI",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnXStG1mN9kGI?extname=.h",
+    "linkType": "local",
+    "name": "timer_a.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "timer_a.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnELDpTll-k4w&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnELDpTll-k4w",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnELDpTll-k4w?extname=.c",
+    "linkType": "local",
+    "name": "uart.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "uart.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnZZdhux_yeEc&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnZZdhux_yeEc",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnZZdhux_yeEc?extname=.h",
+    "linkType": "local",
+    "name": "uart.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "uart.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAn1oh6ntoGZxY&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAn1oh6ntoGZxY",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAn1oh6ntoGZxY?extname=.c",
+    "linkType": "local",
+    "name": "wdt_a.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "wdt_a.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnjShmoVLYQvM&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnjShmoVLYQvM",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnjShmoVLYQvM?extname=.h",
+    "linkType": "local",
+    "name": "wdt_a.h",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "wdt_a.h",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnV96lnVZsSTE&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnV96lnVZsSTE",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnV96lnVZsSTE?extname=.c",
+    "linkType": "local",
+    "name": "system_msp432p401r.c",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "system_msp432p401r.c",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?id=wAnFAnB7MUFjPE&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source&removeoffline=true",
+    "_id": "wAnFAnB7MUFjPE",
+    "advanced": {
+      "overrideProjectSpecDeviceId": true
+    },
+    "devtools": [
+      "MSP432P401R LaunchPad - Red 2.x (Red)"
+    ],
+    "link": "api/linkTo/wAnFAnB7MUFjPE?extname=.cmd",
+    "linkType": "local",
+    "name": "msp432p401r.cmd",
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "parentID": "wAnCiDyEbvj6kE",
+    "resourceType": "file",
+    "shortDescription": "driverlib_empty_project_from_source",
+    "type": "resource",
+    "text": "msp432p401r.cmd",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "packageOrder": 299
+  },
+  {
+    "text": "ccs",
+    "type": "folder",
+    "numChildren": 0,
+    "numChildrenLocal": 1,
+    "children": true,
+    "state": {
+      "opened": false
+    },
+    "packageUId": "com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "url": "/api/resources?path=Software/SimpleLink%20MSP432P4%20SDK/Examples/Development%20Tools/MSP432P401R%20LaunchPad%20-%20Red%202.x%20(Red)/DriverLib/driverlib_empty_project_from_source/No%20RTOS/CCS%20Compiler/driverlib_empty_project_from_source&package=msp430ware__3.80.09.03::com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::xdctools__3.60.02.34",
+    "downloadLink": "api/bundle?vid=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02&download=true",
+    "makeofflineLink": "api/bundles?vids=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02",
+    "removeofflineLink": "api/resources?package=com.ti.SIMPLELINK_MSP432_SDK__3.40.01.02::msp430ware__3.80.09.03::xdctools__3.60.02.34&path=Software/SimpleLink MSP432P4 SDK/Examples/Development Tools/MSP432P401R LaunchPad - Red 2.x (Red)/DriverLib/driverlib_empty_project_from_source/No RTOS/CCS Compiler/driverlib_empty_project_from_source/ccs&removeoffline=true",
+    "packageOrder": 299
+  }
+]
