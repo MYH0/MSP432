@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\P0 Template",
-    "\\P06 Timer32 Blink LED1"
+    "\\P07 UART-Return Strings to PC"
   ],
-  "SelectedNode": "\\P0 Template\\M432P4_GPIO.H",
+  "SelectedNode": "\\P07 UART-Return Strings to PC\\M432P4_UART_Hard.h",
   "PreviewInSolutionExplorer": false
 }
